@@ -1,0 +1,6 @@
+{
+  "name": "Rage Runner",
+  "description": "An intense, high-octane 2D trap platformer featuring 100 levels across 5 worlds, procedural synth audio, local 2-player mode, daily challenges, skin shop, and a custom level editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
